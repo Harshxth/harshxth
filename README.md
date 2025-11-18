@@ -20,7 +20,7 @@ Welcome to my portfolio, where I showcase my [projects, case studies, or work ex
   
 ## 👋🏻 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/harshithgujjeti/)
+- [LinkedIn]((https://www.linkedin.com/in/harshithgujjeti/))
 
 
 HARSHITH GUJJETI
