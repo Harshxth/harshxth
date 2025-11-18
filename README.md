@@ -9,7 +9,7 @@ I'm Harshith. A Data and Machine Learning ethusiasist.
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects, case studies, or work examples]. You can check some [highlighted projects here](#projects).
+Welcome to my portfolio, where I showcase my [projects, case studies, or work examples]. You can check some [highlighted projects here](https://github.com/Harshxth?tab=overview&from=2025-11-01&to=2025-11-18).
 
 ## 🛠️ Tools
 
