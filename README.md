@@ -2,8 +2,7 @@
 
 I'm Harshith. A Data and Machine Learning ethusiasist.
 
-- [Key skill or task 1]
-- [Key skill or task 2]
+
 - [Key skill or task 3]
 - [Any tools or technologies you specialize in]
 
@@ -13,14 +12,15 @@ Welcome to my portfolio, where I showcase my [projects, case studies, or work ex
 
 ## 🛠️ Tools
 
-- Language: [Languages you know, e.g., Python, JavaScript]
-- Database: [Databases you use, e.g., MySQL, MongoDB]
-- Visualization/Frameworks: [Tools or frameworks, e.g., React, Tableau]
-
+- Languages: Python, R, SQL, C
+- Machine Learning: Transformer Models, Deep Neural Networks, Computer Vision
+- Libraries: pandas, NumPy, scikit-learn, PyTorch, TensorFlow, StatsModels, XGBoost
+- Platforms: Jupyter, Git, Docker, SQL Server, Snowflake Certified, Excel, Cuda
+- BI & Visualization: Power BI, Dashboards, Data Storytelling
+  
 ## 👋🏻 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~yourprofile) or other platforms
+- [LinkedIn](https://www.linkedin.com/in/harshithgujjeti/)
 
 
 HARSHITH GUJJETI
