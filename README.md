@@ -1,7 +1,7 @@
 #  Hello
 
 I work at the intersection of machine learning, data engineering, and computer vision. I build and train models, design ETL pipelines, work with BigQuery and Airflow, and wrangle messy datasets into something actually
-useful. I care about preprocessing and data quality work that most people skip because bad data breaks good models. I'm comfortable across the full stack of a data project, from raw ingestion to deployed model.
+useful. I'm comfortable across the full stack of a data project, from raw ingestion to deployed model.
 
 ##  Projects
 
