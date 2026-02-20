@@ -15,7 +15,7 @@ Welcome to my portfolio, You can check some [projects here](https://github.com/H
 
 ###  Machine Learning & AI
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,keras&perline=10" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,keras&perline=10" />
 </a>
 
 ###  Data Engineering & Databases
