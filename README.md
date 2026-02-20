@@ -22,3 +22,79 @@ Welcome to my portfolio, You can check some [projects here](https://github.com/H
 ## 👋🏻 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/harshithgujjeti/)
+
+# Hi there 👋, I'm Harshith Gujjeti
+
+### About Me
+
+- 🤖 MS in AI & Business Analytics student specializing in ML systems, data pipelines, and applied AI research
+- 🎓 Currently pursuing MS @ University of South Florida, Tampa, FL (2025–2027)
+- 🧑🏽‍💻 My technical interests are machine learning, data engineering, computer vision, and generative AI
+- 🏥 Currently building ML models for healthcare billing analytics & YOLOv8 traffic safety research
+- 📸 My hobbies include video editing and 3D visual effects
+
+---
+
+### 🤖 Machine Learning & AI
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&perline=8" />
+  </a>
+</p>
+
+---
+
+### 🏗️ Data Engineering & Databases
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,gcp,docker,kafka&perline=8" />
+  </a>
+</p>
+
+---
+
+### 💻 Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,java,cpp,cs&perline=8" />
+  </a>
+</p>
+
+---
+
+### ☁️ DevOps & Cloud
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux&perline=8" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Development Setup
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,jupyter,androidstudio&perline=8" />
+  </a>
+</p>
+
+---
+
+### 📊 My Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshith-Gujjeti&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith-Gujjeti&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+#### ⏱️ The time I spent this week coding
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
