@@ -35,7 +35,7 @@ Welcome to my portfolio, You can check some [projects here](https://github.com/H
 
 ###  Development Setup
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,jupyter,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter&perline=10" />
 </a>
 
   
