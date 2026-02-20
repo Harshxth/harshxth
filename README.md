@@ -38,6 +38,15 @@ Welcome to my portfolio, You can check some [projects here](https://github.com/H
   <img src="https://skillicons.dev/icons?i=vscode,jupyter&perline=10" />
 </a>
 
+### 📊 Data Visualization & BI
+<a href="https://go-skill-icons.vercel.app/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,kibana,seaborn,bokeh,d3,mlflow&perline=10" />
+</a>
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
   
 ## 👋🏻 Connect with Me
 
