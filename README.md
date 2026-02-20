@@ -11,46 +11,35 @@ I'm Harshith. A Data and Machine Learning ethusiasist.
 
 Welcome to my portfolio, You can check some [projects here](https://github.com/Harshxth?tab=overview&from=2025-11-01&to=2025-11-18).  (working on my github rn)
 
-## 🛠️ Tools
 
-- Languages: Python, R, SQL, C
-- Machine Learning: Transformer Models, Deep Neural Networks, Computer Vision
-- Libraries: pandas, NumPy, scikit-learn, PyTorch, TensorFlow, StatsModels, XGBoost
-- Platforms: Jupyter, Git, Docker, SQL Server, Snowflake Certified, Excel, Cuda
-- BI & Visualization: Power BI, Dashboards, Data Storytelling
+###  Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,r,c&perline=10" />
+</a>
+
+###  Machine Learning & AI
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,keras&perline=10" />
+</a>
+
+###  Data Engineering & Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,gcp,docker,kafka,redis,sqlite&perline=10" />
+</a>
+
+
+###  DevOps & Cloud
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,gitlab,jenkins,kubernetes&perline=10" />
+</a>
+
+###  Development Setup
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,jupyter,postman&perline=10" />
+</a>
+
   
 ## 👋🏻 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/harshithgujjeti/)
 
-# Hi there 👋, I'm Harshith Gujjeti
-
-### 🤖 Machine Learning & AI
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,keras&perline=10" />
-</a>
-
-### 🏗️ Data Engineering & Databases
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,gcp,docker,kafka,redis,sqlite&perline=10" />
-</a>
-
-### 💻 Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,cs,js,ts,html,css&perline=10" />
-</a>
-
-### ☁️ DevOps & Cloud
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,gitlab&perline=10" />
-</a>
-
-### 🛠️ Development Setup
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,jupyter,postman&perline=10" />
-</a>
-
-### 🎨 Hobby Software
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=blender,ae,pr&perline=10" />
-</a>
