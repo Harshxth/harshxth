@@ -1,6 +1,5 @@
 #  Hello
 
-
 I work at the intersection of machine learning, data engineering, and computer vision. On the ML side, I build and train models. On the data side, I design ETL pipelines, work with BigQuery and Airflow, and wrangle messy datasets into something actually
 useful. I care about preprocessing and data quality work that most people skip because bad data breaks good models. I'm comfortable across the full stack of a data project, from raw ingestion to deployed model.
 
@@ -34,8 +33,4 @@ Welcome to my portfolio, You can check some [projects here](https://github.com/H
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,jupyter&perline=10" />
 </a>
-
-##  Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/harshithgujjeti/)
 
