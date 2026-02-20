@@ -1,15 +1,12 @@
 #  Hello
 
-I'm Harshith. A Data and Machine Learning ethusiasist.
 
-- Querying data using Python and R.
-- Developing machine learning models with scikit-learn and PyTorch.
-- Creating dashboards and visualizations using Power BI.
-- Managing databases and performing data analysis with SQL and Snowflake.
+I work at the intersection of machine learning, data engineering, and computer vision. On the ML side, I build and train models. On the data side, I design ETL pipelines, work with BigQuery and Airflow, and wrangle messy datasets into something actually
+useful. I care about preprocessing and data quality work that most people skip because bad data breaks good models. I'm comfortable across the full stack of a data project, from raw ingestion to deployed model.
 
-## 📚 Projects
+##  Projects
 
-Welcome to my portfolio, You can check some [projects here](https://github.com/Harshxth?tab=overview&from=2025-11-01&to=2025-11-18).  (working on my github rn)
+Welcome to my portfolio, You can check some [projects here](https://github.com/Harshxth?tab=overview&from=2025-11-01&to=2025-11-18). 
 
 
 ###  Languages
