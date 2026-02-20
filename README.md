@@ -43,7 +43,6 @@ Welcome to my portfolio, You can check some [projects here](https://github.com/H
   </a>
 </p>
 
----
 
 ### 🏗️ Data Engineering & Databases
 
@@ -53,7 +52,6 @@ Welcome to my portfolio, You can check some [projects here](https://github.com/H
   </a>
 </p>
 
----
 
 ### 💻 Languages
 
@@ -63,7 +61,6 @@ Welcome to my portfolio, You can check some [projects here](https://github.com/H
   </a>
 </p>
 
----
 
 ### ☁️ DevOps & Cloud
 
@@ -73,17 +70,15 @@ Welcome to my portfolio, You can check some [projects here](https://github.com/H
   </a>
 </p>
 
----
 
 ### 🛠️ Development Setup
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,jupyter,androidstudio&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,jupyter,vscode&perline=8" />
   </a>
 </p>
 
----
 
 ### 📊 My Stats
 
