@@ -20,7 +20,7 @@ Welcome to my portfolio, You can check some [projects here](https://github.com/H
 
 ###  Data Engineering & Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,gcp,docker,kafka,redis,sqlite&perline=10" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,kafka,redis,sqlite&perline=10" />
 </a>
 
 
