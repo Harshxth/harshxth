@@ -5,7 +5,7 @@ useful. I'm comfortable across the full stack of a data project, from raw ingest
 
 ##  Projects
 
-Welcome to my portfolio, You can check some [projects here](https://github.com/Harshxth?tab=overview&from=2025-11-01&to=2025-11-18). 
+Welcome to my portfolio, You can check some [projects here](https://github.com/Harshxth/Portfolio-Guide). 
 
 
 ###  Languages
