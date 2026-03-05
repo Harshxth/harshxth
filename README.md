@@ -3,7 +3,7 @@
 I work at the intersection of machine learning, data engineering, and computer vision. I build and train models, design ETL pipelines, work with BigQuery and Airflow, and wrangle messy datasets into something actually
 useful. I'm comfortable across the full stack of a data project, from raw ingestion to deployed model.
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/harshithgujjeti" title="Let's connect professionally">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
