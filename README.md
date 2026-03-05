@@ -4,13 +4,27 @@ I work at the intersection of machine learning, data engineering, and computer v
 useful. I'm comfortable across the full stack of a data project, from raw ingestion to deployed model.
 
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshxth)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshithgujjeti@icloud.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/harshxth)
-
-</div>
+<table align="left">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/harshithgujjeti">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td>
+      <a href="mailto:harshithgujjeti@icloud.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td>
+      <a href="https://github.com/harshxth">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ##  Projects
