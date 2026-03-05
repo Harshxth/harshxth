@@ -4,22 +4,6 @@ I work at the intersection of machine learning, data engineering, and computer v
 useful. I'm comfortable across the full stack of a data project, from raw ingestion to deployed model.
 
 
-<p align="left">
-  <a href="harshithgujjeti@icloud.com" title="I actually reply ">
-    <img src="https://img.shields.io/badge/Email-bn319%40usf.edu-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshithgujjeti" title="Let’s connect professionally">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="https://github.com/Harshxth" title="Welcome to the my dungeon">
-    <img src="https://img.shields.io/badge/GitHub-Incursion--beta-181717?logo=github" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
-</p>
-
 
 
 ##  Projects
