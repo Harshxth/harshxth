@@ -4,27 +4,18 @@ I work at the intersection of machine learning, data engineering, and computer v
 useful. I'm comfortable across the full stack of a data project, from raw ingestion to deployed model.
 
 
-<table align="left">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/harshithgujjeti">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td width="20"></td>
-    <td>
-      <a href="mailto:harshithgujjeti@icloud.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-    </td>
-    <td width="20"></td>
-    <td>
-      <a href="https://github.com/harshxth">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://www.linkedin.com/in/harshithgujjeti">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:harshithgujjeti@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/harshxth">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 
 
 ##  Projects
