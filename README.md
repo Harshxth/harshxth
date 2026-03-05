@@ -34,4 +34,5 @@ Welcome to my portfolio, You can check some [projects here](https://github.com/H
   <img src="https://skillicons.dev/icons?i=vscode,windows,jupyter&perline=10" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshxth&color=green)
+
+![Profile Views Compact](https://komarev.com/ghpvc/?username=harshxth&style=flat-square)
