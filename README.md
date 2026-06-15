@@ -1,52 +1,45 @@
-#  Hello
+# Harshith Gujjeti
 
-I work at the intersection of machine learning, data engineering, and computer vision. I build and train models, design ETL pipelines, work with BigQuery and Airflow, and wrangle messy datasets into something actually
-useful. I'm comfortable across the full stack of a data project, from raw ingestion to deployed model.
+**AI/ML Engineer** building production multi-agent systems, RAG pipelines, and
+computer vision. Currently an **Agentic AI Intern at Reach Cooling** and an
+**M.S. candidate in AI & Business Analytics at USF** (Tampa, FL).
+
+### 🌐 [See the live portfolio → harshxth.github.io](https://harshxth.github.io)
 
 <p align="left">
-  <a href="mailto:harshithgujjeti@icloud.com" title="I actually reply 🙂">
-    <img src="https://img.shields.io/badge/Email-harshithgujjeti%40icloud.com-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshithgujjeti" title="Let's connect professionally">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="https://github.com/harshxth" title="Welcome to my commit dungeon">
-    <img src="https://img.shields.io/badge/GitHub-harshxth-181717?logo=github" />
-  </a>
+  <a href="https://harshxth.github.io"><img src="https://img.shields.io/badge/Portfolio-harshxth.github.io-0B0B0D?logo=githubpages&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harshithgujjeti"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="mailto:harshithgujjeti@icloud.com" title="I actually reply 🙂"><img src="https://img.shields.io/badge/Email-harshithgujjeti%40icloud.com-3693F3?logo=icloud&logoColor=white" /></a>
+  <a href="https://github.com/Harshxth"><img src="https://img.shields.io/badge/GitHub-Harshxth-181717?logo=github" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420" alt="Typing SVG"/>
+## What I build
+- **Multi-agent systems & agentic workflows** — LangGraph, CrewAI, Google ADK, MCP
+- **RAG pipelines** with eval-driven quality — ChromaDB, RAGAS, LangSmith
+- **Production computer vision** — YOLO, OpenCV — and healthcare ML
+- **The data foundations underneath** — ETL, BigQuery, Airflow on GCP
 
-##  Projects
+## Stack
+**Languages**
 
-Welcome to my portfolio, You can check some [projects here](https://github.com/Harshxth/Portfolio-Guide). 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,c&perline=10" /></a>
 
+**ML & AI**
 
-###  Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,r,c&perline=10" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv,sklearn&perline=10" /></a>
 
-###  Machine Learning & AI
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,keras&perline=10" />
-</a>
+`LangGraph` · `LangChain` · `CrewAI` · `Gemini` · `Claude` · `MCP` · `RAGAS` · `ElevenLabs`
 
-###  Data Engineering & Databases
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,kafka,redis,sqlite&perline=10" />
-</a>
+**Backend & Data**
 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,mongodb,gcp,supabase&perline=10" /></a>
 
-###  DevOps & Cloud
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,gitlab,jenkins,kubernetes&perline=10" />
-</a>
+**Frontend**
 
-###  Development Setup
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,windows,jupyter&perline=10" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=10" /></a>
 
+**Tools**
 
-![Profile Views Compact](https://komarev.com/ghpvc/?username=harshxth&style=flat-square)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter&perline=10" /></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=harshxth&style=flat-square)
