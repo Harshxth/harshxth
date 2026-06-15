@@ -22,7 +22,7 @@ computer vision. Currently an **Agentic AI Intern at Reach Cooling** and an
 ## Stack
 **Languages**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,c&perline=10" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,c,r&perline=10" /></a>
 
 **ML & AI**
 
@@ -30,9 +30,13 @@ computer vision. Currently an **Agentic AI Intern at Reach Cooling** and an
 
 `LangGraph` · `LangChain` · `CrewAI` · `Gemini` · `Claude` · `MCP` · `RAGAS` · `ElevenLabs`
 
-**Backend & Data**
+**Backend & Databases**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,mongodb,gcp,supabase&perline=10" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,sqlite,mongodb,redis,kafka,supabase&perline=10" /></a>
+
+**Cloud & DevOps**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,gitlab,git,github,linux&perline=10" /></a>
 
 **Frontend**
 
@@ -40,6 +44,6 @@ computer vision. Currently an **Agentic AI Intern at Reach Cooling** and an
 
 **Tools**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter&perline=10" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,jupyter&perline=10" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshxth&style=flat-square)
