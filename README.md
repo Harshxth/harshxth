@@ -14,10 +14,10 @@ computer vision. Currently an **Agentic AI Intern at Reach Cooling** and an
 </p>
 
 ## What I build
-- **Multi-agent systems & agentic workflows** — LangGraph, CrewAI, Google ADK, MCP
-- **RAG pipelines** with eval-driven quality — ChromaDB, RAGAS, LangSmith
-- **Production computer vision** — YOLO, OpenCV — and healthcare ML
-- **The data foundations underneath** — ETL, BigQuery, Airflow on GCP
+- **Multi-agent systems & agentic workflows**: LangGraph, CrewAI, Google ADK, MCP
+- **RAG pipelines** with eval-driven quality: ChromaDB, RAGAS, LangSmith
+- **Production computer vision** (YOLO, OpenCV) and healthcare ML
+- **The data foundations underneath**: ETL, BigQuery, Airflow on GCP
 
 ## Stack
 **Languages**
