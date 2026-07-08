@@ -4,7 +4,7 @@
 computer vision. Currently an **Agentic AI Intern at Reach Cooling** and an
 **M.S. candidate in AI & Business Analytics at USF** (Tampa, FL).
 
-### 🌐 [See the live portfolio → harshxth.github.io](https://harshxth.github.io)
+### 🌐 [See the live portfolio → harshxth.github.io](https://harshithgujjet.com)
 
 <p align="left">
   <a href="https://harshxth.github.io"><img src="https://img.shields.io/badge/Portfolio-harshxth.github.io-0B0B0D?logo=githubpages&logoColor=white" /></a>
