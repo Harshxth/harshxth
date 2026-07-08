@@ -4,10 +4,10 @@
 computer vision. Currently an **Agentic AI Intern at Reach Cooling** and an
 **M.S. candidate in AI & Business Analytics at USF** (Tampa, FL).
 
-### 🌐 [See the live portfolio → harshxth.github.io](https://harshithgujjet.com)
+### 🌐 [See the live portfolio → harshithgujjet.com](https://harshithgujjet.com)
 
 <p align="left">
-  <a href="https://harshxth.github.io"><img src="https://img.shields.io/badge/Portfolio-harshxth.github.io-0B0B0D?logo=githubpages&logoColor=white" /></a>
+  <a href="https://harshithgujjet.com"><img src="https://img.shields.io/badge/Portfolio-harshithgujjet.com-0B0B0D?logo=githubpages&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/harshithgujjeti"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <a href="mailto:harshithgujjeti@icloud.com" title="I actually reply 🙂"><img src="https://img.shields.io/badge/Email-harshithgujjeti%40icloud.com-3693F3?logo=icloud&logoColor=white" /></a>
   <a href="https://github.com/Harshxth"><img src="https://img.shields.io/badge/GitHub-Harshxth-181717?logo=github" /></a>
